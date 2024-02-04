@@ -1,0 +1,5 @@
+All the files in this folder create models in the database, each file being named
+after the table it creates.
+ 
+A file that would be nice as an addition here would be if we could have a file that adds a 
+handful of users to the database for testing when we might have to rebuild tables.

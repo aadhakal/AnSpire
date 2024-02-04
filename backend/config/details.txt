@@ -1,0 +1,2 @@
+This folder contains the file 'dbConfig.js' which contains our information to connect to the DB
+and the connection file which establishes the connection 'connection.js'
